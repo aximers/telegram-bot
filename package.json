@@ -2,7 +2,7 @@
   "name": "aximers-telegram-bot",
   "version": "0.0.57",
   "description": "telegram bot for aximers, for everything.",
-  "main": "sremixa/aximers.js",
+  "main": "eixa/axie.js",
   "scripts": {
     
   },
